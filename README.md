@@ -1,14 +1,13 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vedant%20Navthale&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</p>
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/vednav9">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Vedant+Navthale;🚀+Full+Stack+Developer;🤖+AI%2FML+Explorer;💡+Open+Source+Contributor;🎸+Guitarist+%26+Tech+Enthusiast" />
+    <img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Vedant+Navthale;💻+Software+Engineer;🚀+Full+Stack+Developer;💡+Open+Source+Contributor;🎸+Guitarist+%26+Tech+Enthusiast" 
+  alt="Typing SVG" 
+/>
   </a>
 </p>
+
 
 ---
 
@@ -51,7 +50,7 @@
 </p>
 
 ---
-
+<!--
 ## 🚀 Featured Projects  
 
 <table>
@@ -89,17 +88,33 @@
 </table>
 
 ---
+-->
 
 ## 📊 GitHub Stats  
+<div align="center">
+  <!-- Row 1: Stats + Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+    alt="Top Languages" 
+    height="180"
+  />
+  <!-- Row 2: Streak Stats -->
+  <br/>
+  <img 
+    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10" 
+    alt="GitHub Streak" 
+    height="180"
+  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vednav9&theme=tokyonight&hide_border=true" height="180" />
-</p>
+
+<br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vednav9&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
@@ -111,13 +126,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedantnavthale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:vedantnavthale@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/vednav9"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
