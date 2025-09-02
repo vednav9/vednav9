@@ -1,20 +1,123 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vedant%20Navthale&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=fff" />
+</p>
 
-I'm Vedant Navthale, a passionate software developer with a focus on web development and machine learning.
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://github.com/vednav9">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Vedant+Navthale;🚀+Full+Stack+Developer;🤖+AI%2FML+Explorer;💡+Open+Source+Contributor;🎸+Guitarist+%26+Tech+Enthusiast" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on building user-friendly interfaces and exploring the world of AI/ML.
-- 🌱 I’m currently learning new techniques in machine learning and deep learning..
-- 👯 I’m looking to collaborate on open-source projects related to web development and machine learning.
-- 🤔 I’m looking for help with optimizing performance in web applications.
-- 💬 Ask me about anything related to JavaScript, Python, or web development.
-- 📫 How to reach me: https://www.linkedin.com/in/vedantnavthale/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm also an avid musician an I like playing the guitar in my free time!
+---
 
-## Skills
+## 🧑‍💻 About Me  
 
-- **Programming Languages:** JavaScript, Python, Java
-- **Frontend Technologies:** HTML, CSS, React.js
-- **Backend Technologies:** Node.js, Express.js, Django
-- **Databases:** MongoDB, MySQL
-- **Tools & Others:** Git, Docker, VS Code, Postman
+✨ I’m **Vedant Navthale**, a **Computer Engineering Student (NHITM, India)** passionate about building **scalable apps** and exploring **AI-driven innovations**.  
+
+- 🌱 Currently building **HealthSync (AI-powered fitness app)**  
+- 💡 Interested in **AI/ML, Web Dev, and Cloud**  
+- 🏆 National-level Startup Competition Winner  
+- 🎯 Goal: Become a **Software Engineer at Google/Microsoft**  
+- 🎸 Outside tech, I jam on my **guitar** and explore creative arts!  
+
+---
+
+## ⚡ Tech Stack  
+
+<p align="center">
+  
+  **Languages**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
+  
+  **Frontend**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+  
+  **Backend**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+  
+  **Databases & Cloud**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,aws,gcp,azure" />
+  
+  **Tools & Others**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" />
+  
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/vednav9/Shop-n-Post">🛍️ Shop-n-Post</a></h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Shop-n-Post&theme=radical" />
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center"><a href="https://github.com/vednav9/Online-Payment-Fraud-Detection">🔐 Fraud Detection</a></h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Online-Payment-Fraud-Detection&theme=radical" />
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/vednav9/Placement-Cell-Portal">🎓 Placement Portal</a></h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Placement-Cell-Portal&theme=radical" />
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center"><a href="https://github.com/vednav9/Fitness-Tracker-App">💪 Fitness Tracker</a></h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Fitness-Tracker-App&theme=radical" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vednav9&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vednav9&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
+</p>
+
+---
+
+## 🌍 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vedantnavthale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:vedantnavthale@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/vednav9"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
