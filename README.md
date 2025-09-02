@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/vednav9">
     <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hey!+I'm+Vedant+Navthale;💻+Software+Engineer;🚀+Full+Stack+Developer;💡+Open+Source+Contributor;🎸+Guitarist+%26+Tech+Enthusiast" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Guitarist+%26+Tech+Enthusiast" 
   alt="Typing SVG" 
 />
   </a>
@@ -11,17 +11,19 @@
 
 ---
 
-## 🧑‍💻 About Me  
+✨ I’m **Vedant Navthale**, a **Final-Year Computer Engineering Student** at *NHITM, India*, building **scalable software** and exploring **AI-driven innovations**.
 
-✨ I’m **Vedant Navthale**, a **Computer Engineering Student (NHITM, India)** passionate about building **scalable apps** and exploring **AI-driven innovations**.  
+- 🌟 Passionate about **AI/ML & Web Development**  
+- 🎓 **Google Student Ambassador (2025)**  
+- 👥 **CSI Member (2025)**
+- 🏆 **National Startup Competition – 2nd Runner-Up**  
+- 📈 Aspiring Software Engineer
 
-- 🌱 Currently building **HealthSync (AI-powered fitness app)**  
-- 💡 Interested in **AI/ML, Web Dev, and Cloud**  
-- 🏆 National-level Startup Competition Winner  
-- 🎯 Goal: Become a **Software Engineer at Google/Microsoft**  
-- 🎸 Outside tech, I jam on my **guitar** and explore creative arts!  
-
+<!--
+### Beyond Tech  
+Playing guitar | Lifelong learner | Creative explorer  
 ---
+-->
 
 ## ⚡ Tech Stack  
 
@@ -50,20 +52,21 @@
 </p>
 
 ---
+
 <!--
-## 🚀 Featured Projects  
+## Featured Projects  
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Shop-n-Post">🛍️ Shop-n-Post</a></h3>
+<h3 align="center"><a href="https://github.com/vednav9/Shop-n-Post"> Shop-n-Post</a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Shop-n-Post&theme=radical" />
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Online-Payment-Fraud-Detection">🔐 Fraud Detection</a></h3>
+<h3 align="center"><a href="https://github.com/vednav9/Online-Payment-Fraud-Detection"> Fraud Detection</a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Online-Payment-Fraud-Detection&theme=radical" />
 </p>
@@ -72,14 +75,14 @@
 
 <tr>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Placement-Cell-Portal">🎓 Placement Portal</a></h3>
+<h3 align="center"><a href="https://github.com/vednav9/Placement-Cell-Portal"> Placement Portal</a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Placement-Cell-Portal&theme=radical" />
 </p>
 </td>
 
 <td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Fitness-Tracker-App">💪 Fitness Tracker</a></h3>
+<h3 align="center"><a href="https://github.com/vednav9/Fitness-Tracker-App"> Fitness Tracker</a></h3>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Fitness-Tracker-App&theme=radical" />
 </p>
@@ -90,7 +93,7 @@
 ---
 -->
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <div align="center">
   <!-- Row 1: Stats + Top Languages -->
   <img 
@@ -122,7 +125,7 @@
 
 ---
 
-## 🌍 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vedantnavthale/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
