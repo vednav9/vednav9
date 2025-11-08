@@ -109,10 +109,11 @@ Playing guitar | Lifelong learner | Creative explorer
   <!-- Row 2: Streak Stats -->
   <br/>
   <img 
-    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10" 
+    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10&v=2" 
     alt="GitHub Streak" 
     height="180"
   />
+
 
 </div>
 
