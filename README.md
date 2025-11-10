@@ -53,46 +53,6 @@ Playing guitar | Lifelong learner | Creative explorer
 
 ---
 
-<!--
-## Featured Projects  
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Shop-n-Post"> Shop-n-Post</a></h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Shop-n-Post&theme=radical" />
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Online-Payment-Fraud-Detection"> Fraud Detection</a></h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Online-Payment-Fraud-Detection&theme=radical" />
-</p>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Placement-Cell-Portal"> Placement Portal</a></h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Placement-Cell-Portal&theme=radical" />
-</p>
-</td>
-
-<td width="50%">
-<h3 align="center"><a href="https://github.com/vednav9/Fitness-Tracker-App"> Fitness Tracker</a></h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vednav9&repo=Fitness-Tracker-App&theme=radical" />
-</p>
-</td>
-</tr>
-</table>
-
----
--->
-
 ## GitHub Stats  
 <div align="center">
   <!-- Row 1: Stats + Top Languages -->
@@ -109,12 +69,10 @@ Playing guitar | Lifelong learner | Creative explorer
   <!-- Row 2: Streak Stats -->
   <br/>
   <img 
-    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10&v=2" 
+    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10" 
     alt="GitHub Streak" 
     height="180"
   />
-
-
 </div>
 
 
