@@ -55,25 +55,34 @@ Playing guitar | Lifelong learner | Creative explorer
 
 ## GitHub Stats  
 <div align="center">
-  <!-- Row 1: Stats + Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
-    alt="GitHub Stats" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
-    alt="Top Languages" 
-    height="180"
-  />
-  <!-- Row 2: Streak Stats -->
-  <br/>
-  <img 
-    src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10" 
-    alt="GitHub Streak" 
-    height="180"
-  />
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=86400"
+          alt="GitHub Stats"
+        />
+      </td>
+
+      <td align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats&cache_seconds=86400"
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+
+    <tr>
+      <td colspan="2" align="center">
+        <img
+          src="https://streak-stats.demolab.com/?user=vednav9&count_private=true&theme=react&border_radius=10"
+          alt="GitHub Streak"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 <br>
