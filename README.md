@@ -2,12 +2,11 @@
 <p align="center">
   <a href="https://github.com/vednav9">
     <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Guitarist+%26+Tech+Enthusiast" 
-  alt="Typing SVG" 
-/>
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
-
 
 ---
 
@@ -53,8 +52,24 @@ Playing guitar | Lifelong learner | Creative explorer
 
 ---
 
+<!-- Inserted Leetcode block (as requested) -->
+<div align="center"> 
+  <h2 align="center">Leetcode Info</h2>  
+  <p align="center">
+    <a href="https://leetcode.com/vednav9/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" alt="leetcode badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/vednav9/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="leetcode badge" height="200" width="200" />
+    </a>
+  </p>
+</div>
+
+---
+
 ## GitHub Stats  
 <div align="center">
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
   <!-- Row 1: Stats + Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
@@ -74,7 +89,6 @@ Playing guitar | Lifelong learner | Creative explorer
     height="180"
   />
 </div>
-
 
 <br>
 
