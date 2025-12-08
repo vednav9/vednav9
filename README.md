@@ -57,6 +57,9 @@ Playing guitar | Lifelong learner | Creative explorer
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
     <a href="https://leetcode.com/vednav9/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="leetcode badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/vednav9/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202511.gif" alt="leetcode badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
