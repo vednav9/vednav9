@@ -90,7 +90,7 @@ Playing guitar | Lifelong learner | Creative explorer
   <!-- Row 2: Streak Stats -->
   <br/>
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=vednav9&count_private=true&theme=react&border_radius=10" 
+    src="https://nirzak-streak-stats.vercel.app/?user=vednav9&count_private=true&theme=react&border_radius=110" 
     alt="GitHub Streak" 
     height="180"
   />
