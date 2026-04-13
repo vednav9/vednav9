@@ -78,19 +78,19 @@ Playing guitar | Lifelong learner | Creative explorer
   <h2 align="center">⚡ Current Statistics ⚡</h2>
   <!-- Row 1: Stats + Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=vednav9&show_icons=true&theme=react&rank_icon=github&border_radius=10" 
     alt="GitHub Stats" 
-    height="180"
+    height="170"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vednav9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
     alt="Top Languages" 
     height="180"
   />
   <!-- Row 2: Streak Stats -->
   <br/>
   <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=vednav9&count_private=true&theme=react&border_radius=11" 
+    src="https://streak-stats.demolab.com?user=vednav9&count_private=true&theme=react&border_radius=11" 
     alt="GitHub Streak" 
     height="180"
   />
