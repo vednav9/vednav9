@@ -17,6 +17,7 @@
 - 👥 **GSSoC Contributor (2026)**
 - 🏆 **National Level Startup Competition – 2nd Runner-Up** (APCOER College, 2023)
 - 📈 Aspiring Software Engineer
+- 🌐 Portfolio: <a href="https://vedantnavdev.vercel.app"> vedantnavdev.vercel.app </a>
 
 <!--
 ### Beyond Tech  
