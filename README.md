@@ -14,7 +14,7 @@
 
 - 🌟 Passionate about **AI/ML & Web Development**  
 - 🎓 **Google Student Ambassador (2025)**  
-- 👥 **CSI Member (2025)**
+- 👥 **GSSoC Contributor (2026)**
 - 🏆 **National Level Startup Competition – 2nd Runner-Up** (APCOER College, 2023)
 - 📈 Aspiring Software Engineer
 
