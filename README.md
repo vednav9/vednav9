@@ -31,19 +31,19 @@ Playing guitar | Lifelong learner | Creative explorer
   
   **Languages**  
   <br/>
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+  
+  **Backend**  
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,django,nginx" />
   
   **Frontend**  
   <br/>
   <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
   
-  **Backend**  
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-  
   **Databases & Cloud**  
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,sqlite,aws,gcp,azure" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite,aws,gcp,azure" />
   
   **Tools & Others**  
   <br/>
