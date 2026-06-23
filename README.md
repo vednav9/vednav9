@@ -58,27 +58,17 @@ Playing guitar | Lifelong learner | Creative explorer
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
-    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/20262.gif" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/20265.gif" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/26100.gif" alt="jyot" height="200" width="200" /></a>
-    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/2650.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-</div>
-
-<div align="center"> 
-  <h2 align="center">Leetcode Info</h2>  
-  <p align="center">
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/20262.gif" alt="leetcode badge" height="160" width="160" />
+      <img align="center" src="assets/20262.gif" alt="leetcode badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/20265.gif" alt="leetcode badge" height="160" width="160" />
+      <img align="center" src="assets/20265.gif" alt="leetcode badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/26100.gif" alt="leetcode badge" height="160" width="160" />
+      <img align="center" src="assets/26100.gif" alt="leetcode badge" height="200" width="200" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/2650.gif" alt="leetcode badge" height="160" width="160" />
+      <img align="center" src="assets/2650.gif" alt="leetcode badge" height="200" width="200" />
     </a>
   </p>
 </div>
