@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://github.com/vednav9">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=✨+Hey!+I'm+Vedant+Navthale;Software+Engineer;Full+Stack+Developer;System+Design;Open+Source+Contributor;Tech+Enthusiast" 
       alt="Typing SVG" 
     />
   </a>
@@ -10,13 +10,14 @@
 
 ---
 
-✨ I’m **Vedant Navthale**, a **Final-Year Computer Engineering Student** at *NHITM, India*, building **scalable software** and exploring **AI-driven innovations**.
+✨ I’m **Vedant Navthale**, a **Computer Engineering graduate** from *NHITM, India*, building **scalable software** and exploring **AI-driven innovations**.
 
-- 🌟 Passionate about **AI/ML & Web Development**  
+- 🌟 Passionate about **Software Engineering & System Design**  
 - 🎓 **Google Student Ambassador (2025)**  
 - 👥 **GSSoC Contributor (2026)**
+- 🏆 **Vibe-a-Thon Hackathon – Winner** (NHITM College, 2026)
 - 🏆 **National Level Startup Competition – 2nd Runner-Up** (APCOER College, 2023)
-- 📈 Aspiring Software Engineer
+- 💼 Open to Software Engineering opportunities
 - 🌐 Portfolio: <a href="https://vedantnavdev.vercel.app"> vedantnavdev.vercel.app </a>
 
 <!--
@@ -57,17 +58,27 @@ Playing guitar | Lifelong learner | Creative explorer
 <div align="center"> 
   <h2 align="center">Leetcode Info</h2>  
   <p align="center">
+    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/20262.gif" alt="jyot" height="200" width="200" /></a>
+    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/20265.gif" alt="jyot" height="200" width="200" /></a>
+    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/26100.gif" alt="jyot" height="200" width="200" /></a>
+    <a href="https://leetcode.com/vednav9" target="_blank"><img align="center" src="assets/2650.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+</div>
+
+<div align="center"> 
+  <h2 align="center">Leetcode Info</h2>  
+  <p align="center">
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/20262.gif" alt="leetcode badge" height="200" width="200" />
+      <img align="center" src="assets/20262.gif" alt="leetcode badge" height="160" width="160" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/20265.gif" alt="leetcode badge" height="200" width="200" />
+      <img align="center" src="assets/20265.gif" alt="leetcode badge" height="160" width="160" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/26100.gif" alt="leetcode badge" height="200" width="200" />
+      <img align="center" src="assets/26100.gif" alt="leetcode badge" height="160" width="160" />
     </a>
     <a href="https://leetcode.com/vednav9/" target="_blank">
-      <img align="center" src="assets/2650.gif" alt="leetcode badge" height="200" width="200" />
+      <img align="center" src="assets/2650.gif" alt="leetcode badge" height="160" width="160" />
     </a>
   </p>
 </div>
@@ -100,7 +111,7 @@ Playing guitar | Lifelong learner | Creative explorer
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vednav9&theme=algolia&margin-w=10&margin-h=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vednav9&theme=algolia&margin-w=10&margin-h=10&row=1&column=7"/>
 </p>
 
 ---
